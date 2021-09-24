@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.5",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -36,7 +36,14 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "82f980c1-7301-4c7f-86ac-98391897a1d1",
+        "dataVariationFilePath": ".variations\\TestData_Calculation_Test.json",
+        "fileName": "Tests\\Calculation_Test.xaml"
+      }
+    ],
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
