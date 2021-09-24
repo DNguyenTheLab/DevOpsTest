@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: TheLabDNguyen
+pool: Default
+
 
 stages:
   - stage: Build
